@@ -1,0 +1,5 @@
+Nota de plata
+Produse...Pret
+b...10.0
+compus...22.0
+Total: 32.0

@@ -1,0 +1,5 @@
+Nota de plata
+Produse...Pret
+b...10.0
+c...12.0
+Total: 22.0
